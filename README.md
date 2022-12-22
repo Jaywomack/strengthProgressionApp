@@ -1,5 +1,7 @@
 Strength Progression App
 
+API = https://wger.de/en/software/api
+
 linear progression through program
 linear progression through to intermediate and professional levels
 preparing the body to lift
@@ -17,4 +19,17 @@ injury prevention
 The most important strength exercises
 timeline
 popular programs
-# strengthProgressionApp
+TDEE Calculator
+Standards for powerlifting 
+https://rawpowerlifting.com/wp-content/uploads/2013/03/Lifter-Classifications.pdf
+
+programs
+greyskull lp
+nsuns
+531
+PPL
+candito linear
+ss5x5
+sl5x5
+icf5x5
+
