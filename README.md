@@ -132,7 +132,10 @@ API = https://wger.de/en/software/api
 | DELETE       |                | DESTROY     | No data<br/>Status: NONE<br/>Redirect to /cardioLog    | Delete timeLogged from cardioLog table based on id |
 
 
-<h2 id=''>
+<h2 id='wireframe'>Lofi Wireframe</h2>
+
+![WIREFRAME](./imgs/wireframe.jpg)
+
 
 <h2 id='erd'>ERD</h2>
 
